@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">smokeShop</string>
+    <string name="user_LogIn">登入</string>
+    <string name="user_SigIn">註冊</string>
+    <string name="user_shopList">訂貨清單</string>
+    <string name="user_settings">設定</string>
+    <string name="action_chat">訊息</string>
+    <!-- Strings related to login -->
+    <string name="title_activity_login">會員登入</string>
+    <string name="loginPageemail">Email</string>
+    <string name="loginPagepassword">Password</string>
+    <string name="action_sign_in">登入</string>
+    <string name="loginPageNavber">會員登入</string>
+    <string name="error_invalid_email">此Email不可用</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">輸入錯誤</string>
+    <string name="error_field_required">不可為空</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing emailcompletions."</string>
+    <string name="title_activity_chat">chatActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

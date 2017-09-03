@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.xo337.smokeshop.MainActivity">
+    <item
+        android:id="@+id/user_LogIn"
+        android:orderInCategory="100"
+        android:title="@string/user_LogIn"
+        app:showAsAction="never"
+        android:onClick="loginPage"/>
+    <item
+        android:id="@+id/user_SigIn"
+        android:orderInCategory="100"
+        android:title="@string/user_SigIn"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/user_shopList"
+        android:orderInCategory="100"
+        android:title="@string/user_shopList"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/user_settings"
+        android:orderInCategory="100"
+        android:title="@string/user_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_chat"
+        android:orderInCategory="100"
+        android:title="@string/action_chat"
+        app:showAsAction="never"
+        android:onClick="chatPage"/>
+</menu>
